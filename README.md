@@ -42,4 +42,4 @@ Run `bn_dictionary/run.sh`.
 
 Other folder contains useful scripts with purpose to prepare data for vecmap alignment over anchor points.
 
-`lemmatizer.py` script lemmatizes text and puts tabular NER text in apropriate format for further processing. `aligning_two_corpuses.py` aligns sentences as instructed in appropriate linking file. These files may then be further processed by other projects, namely https://github.com/EMBEDDIA/vecmap-changes.  
+`lemmatizer.py` script lemmatizes text and puts tabular NER text in apropriate format for further processing. `aligning_two_corpuses.py` aligns sentences as instructed in appropriate linking file. These files may then be further processed by other projects, namely https://github.com/MatejUlcar/elmogan and https://github.com/EMBEDDIA/vecmap-changes.  
