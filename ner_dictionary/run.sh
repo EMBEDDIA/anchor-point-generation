@@ -1,0 +1,2 @@
+python paracorpus_align.py --corpus_lang1 "data/en/" --corpus_lang2 "data/sl/sl.iob" --align_file "data/en-sl.xml" --output_folder "data/output"
+python filter_single_word_ners.py --read_path "data/output/new_results.txt" --write_path "data/output/new_hr_sl.ner-base.dict"
